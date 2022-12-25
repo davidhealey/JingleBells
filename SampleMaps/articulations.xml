@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="articulations" RRGroupAmount="8.0" MicPositions=";" CrossfadeGamma="0.505"
+           SaveMode="2">
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic1_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2084" SampleStart="2084"
+          LoopEnd="83064" SampleEnd="83064" MonolithOffset="0" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="31" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic1_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="681" SampleStart="681"
+          LoopEnd="68364" SampleEnd="68364" MonolithOffset="86016" MonolithLength="69632"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="31" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic1_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="4972" SampleStart="4972"
+          LoopEnd="86666" SampleEnd="86666" MonolithOffset="155648" MonolithLength="90112"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="31" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic1_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="5823" SampleStart="5823"
+          LoopEnd="69773" SampleEnd="69773" MonolithOffset="245760" MonolithLength="73728"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="32" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic2_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="7917" SampleStart="7917"
+          LoopEnd="69910" SampleEnd="69910" MonolithOffset="319488" MonolithLength="73728"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="32" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic2_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2540" SampleStart="2540"
+          LoopEnd="70814" SampleEnd="70814" MonolithOffset="393216" MonolithLength="73728"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="32" HiVel="63" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic2_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="5624" SampleStart="5624"
+          LoopEnd="65311" SampleEnd="65311" MonolithOffset="466944" MonolithLength="65536"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="32" HiVel="63" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic2_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="5785" SampleStart="5785"
+          LoopEnd="84213" SampleEnd="84213" MonolithOffset="532480" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="64" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic3_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="3723" SampleStart="3723"
+          LoopEnd="80750" SampleEnd="80750" MonolithOffset="618496" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="64" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic3_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="4601" SampleStart="4601"
+          LoopEnd="80110" SampleEnd="80110" MonolithOffset="704512" MonolithLength="81920"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="64" HiVel="95" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic3_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="748" SampleStart="748"
+          LoopEnd="75270" SampleEnd="75270" MonolithOffset="786432" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="64" HiVel="95" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic3_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2478" SampleStart="2478"
+          LoopEnd="83659" SampleEnd="83659" MonolithOffset="864256" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic4_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2056" SampleStart="2056"
+          LoopEnd="48290" SampleEnd="48290" MonolithOffset="950272" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="96" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic4_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1696" SampleStart="1696"
+          LoopEnd="77257" SampleEnd="77257" MonolithOffset="999424" MonolithLength="81920"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="96" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic4_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2319" SampleStart="2319"
+          LoopEnd="73213" SampleEnd="73213" MonolithOffset="1081344" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="96" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic4_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="6285" SampleStart="6285"
+          LoopEnd="63515" SampleEnd="63515" MonolithOffset="1159168" MonolithLength="69632"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="31" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic1_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2084" SampleStart="2084"
+          LoopEnd="83064" SampleEnd="83064" MonolithOffset="1228800" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="31" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic1_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="681" SampleStart="681"
+          LoopEnd="68364" SampleEnd="68364" MonolithOffset="1314816" MonolithLength="69632"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="31" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic1_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="4972" SampleStart="4972"
+          LoopEnd="86666" SampleEnd="86666" MonolithOffset="1384448" MonolithLength="90112"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="31" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic1_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3042" SampleStart="3042"
+          LoopEnd="69773" SampleEnd="69773" MonolithOffset="1474560" MonolithLength="73728"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="32" HiVel="63" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic2_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="7339" SampleStart="7339"
+          LoopEnd="69910" SampleEnd="69910" MonolithOffset="1548288" MonolithLength="73728"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="32" HiVel="63" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic2_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2177" SampleStart="2177"
+          LoopEnd="70814" SampleEnd="70814" MonolithOffset="1622016" MonolithLength="73728"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="32" HiVel="63" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic2_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="5616" SampleStart="5616"
+          LoopEnd="65311" SampleEnd="65311" MonolithOffset="1695744" MonolithLength="65536"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="32" HiVel="63" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic2_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="5728" SampleStart="5728"
+          LoopEnd="84213" SampleEnd="84213" MonolithOffset="1761280" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="64" HiVel="95" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic3_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3723" SampleStart="3723"
+          LoopEnd="80750" SampleEnd="80750" MonolithOffset="1847296" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="64" HiVel="95" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic3_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="4601" SampleStart="4601"
+          LoopEnd="80110" SampleEnd="80110" MonolithOffset="1933312" MonolithLength="81920"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="64" HiVel="95" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic3_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="748" SampleStart="748"
+          LoopEnd="75270" SampleEnd="75270" MonolithOffset="2015232" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="64" HiVel="95" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic3_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2478" SampleStart="2478"
+          LoopEnd="83659" SampleEnd="83659" MonolithOffset="2093056" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="96" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic4_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2056" SampleStart="2056"
+          LoopEnd="48290" SampleEnd="48290" MonolithOffset="2179072" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="96" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic4_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1696" SampleStart="1696"
+          LoopEnd="77257" SampleEnd="77257" MonolithOffset="2228224" MonolithLength="81920"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="96" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic4_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2319" SampleStart="2319"
+          LoopEnd="73213" SampleEnd="73213" MonolithOffset="2310144" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="96" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type1/jingleBells_type1_60_dynamic4_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="6354" SampleStart="6354"
+          LoopEnd="63515" SampleEnd="63515" MonolithOffset="2387968" MonolithLength="69632"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type2/jingleBells_type2_62_dynamic1_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2063" SampleStart="2063"
+          LoopEnd="81426" SampleEnd="81426" MonolithOffset="2457600" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type2/jingleBells_type2_62_dynamic1_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="16139" SampleStart="16139"
+          LoopEnd="115044" SampleEnd="115044" MonolithOffset="2543616"
+          MonolithLength="118784" SampleRate="48000.0"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type2/jingleBells_type2_62_dynamic1_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="11781" SampleStart="11781"
+          LoopEnd="80138" SampleEnd="80138" MonolithOffset="2662400" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type2/jingleBells_type2_62_dynamic1_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="655" SampleStart="655"
+          LoopEnd="108615" SampleEnd="108615" MonolithOffset="2748416"
+          MonolithLength="114688" SampleRate="48000.0"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type2/jingleBells_type2_62_dynamic1_rr5.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="6172" SampleStart="6172"
+          LoopEnd="66995" SampleEnd="66995" MonolithOffset="2863104" MonolithLength="69632"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type2/jingleBells_type2_62_dynamic1_rr6.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="7339" SampleStart="7339"
+          LoopEnd="75323" SampleEnd="75323" MonolithOffset="2932736" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type2/jingleBells_type2_62_dynamic1_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1664" SampleStart="1664"
+          LoopEnd="80138" SampleEnd="80138" MonolithOffset="3010560" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type2/jingleBells_type2_62_dynamic1_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="655" SampleStart="655"
+          LoopEnd="108615" SampleEnd="108615" MonolithOffset="3096576"
+          MonolithLength="114688" SampleRate="48000.0"/>
+  <sample Root="66" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type3/jingleBells_type3_64_dynamic1_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1289" SampleStart="1289"
+          LoopEnd="49418" SampleEnd="49418" MonolithOffset="3211264" MonolithLength="53248"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type3/jingleBells_type3_64_dynamic1_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="6984" SampleStart="6984"
+          LoopEnd="86584" SampleEnd="86584" MonolithOffset="3264512" MonolithLength="98304"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type3/jingleBells_type3_64_dynamic1_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="616" SampleStart="616"
+          LoopEnd="68663" SampleEnd="68663" MonolithOffset="3362816" MonolithLength="69632"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type3/jingleBells_type3_64_dynamic1_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="9840" SampleStart="9840"
+          LoopEnd="76834" SampleEnd="76834" MonolithOffset="3432448" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type3/jingleBells_type3_64_dynamic1_rr5.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="5392" SampleStart="5392"
+          LoopEnd="60470" SampleEnd="60470" MonolithOffset="3518464" MonolithLength="69632"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type3/jingleBells_type3_64_dynamic1_rr6.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="5241" SampleStart="5241"
+          LoopEnd="94665" SampleEnd="94665" MonolithOffset="3588096" MonolithLength="102400"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type3/jingleBells_type3_64_dynamic1_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3703" SampleStart="3703"
+          LoopEnd="68663" SampleEnd="68663" MonolithOffset="3690496" MonolithLength="69632"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type3/jingleBells_type3_64_dynamic1_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="9783" SampleStart="9783"
+          LoopEnd="76834" SampleEnd="76834" MonolithOffset="3760128" MonolithLength="86016"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic1_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="8049" SampleStart="8049"
+          LoopEnd="123498" SampleEnd="123498" MonolithOffset="3846144"
+          MonolithLength="126976" SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="41" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic1_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="6502" SampleStart="6502"
+          LoopEnd="70426" SampleEnd="70426" MonolithOffset="3973120" MonolithLength="73728"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic1_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="650" SampleStart="650"
+          LoopEnd="103137" SampleEnd="103137" MonolithOffset="4046848"
+          MonolithLength="106496" SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="41" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic1_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2411" SampleStart="2411"
+          LoopEnd="76507" SampleEnd="76507" MonolithOffset="4153344" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic2_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="626" SampleStart="626"
+          LoopEnd="68375" SampleEnd="68375" MonolithOffset="4231168" MonolithLength="69632"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="42" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic2_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="611" SampleStart="611"
+          LoopEnd="78493" SampleEnd="78493" MonolithOffset="4300800" MonolithLength="81920"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic2_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="592" SampleStart="592"
+          LoopEnd="74061" SampleEnd="74061" MonolithOffset="4382720" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="42" HiVel="84" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic2_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1761" SampleStart="1761"
+          LoopEnd="88827" SampleEnd="88827" MonolithOffset="4460544" MonolithLength="90112"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic3_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="3571" SampleStart="3571"
+          LoopEnd="70300" SampleEnd="70300" MonolithOffset="4550656" MonolithLength="73728"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="85" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic3_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="4383" SampleStart="4383"
+          LoopEnd="62124" SampleEnd="62124" MonolithOffset="4624384" MonolithLength="65536"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic3_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="630" SampleStart="630"
+          LoopEnd="43931" SampleEnd="43931" MonolithOffset="4689920" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="85" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic3_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="642" SampleStart="642"
+          LoopEnd="72131" SampleEnd="72131" MonolithOffset="4739072" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="41" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic1_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="7224" SampleStart="7224"
+          LoopEnd="123498" SampleEnd="123498" MonolithOffset="4816896"
+          MonolithLength="126976" SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="41" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic1_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="6388" SampleStart="6388"
+          LoopEnd="70426" SampleEnd="70426" MonolithOffset="4943872" MonolithLength="73728"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="41" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic1_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="650" SampleStart="650"
+          LoopEnd="103137" SampleEnd="103137" MonolithOffset="5017600"
+          MonolithLength="106496" SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="41" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic1_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2411" SampleStart="2411"
+          LoopEnd="76507" SampleEnd="76507" MonolithOffset="5124096" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="42" HiVel="84" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic2_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="626" SampleStart="626"
+          LoopEnd="68375" SampleEnd="68375" MonolithOffset="5201920" MonolithLength="69632"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="42" HiVel="84" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic2_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="611" SampleStart="611"
+          LoopEnd="78493" SampleEnd="78493" MonolithOffset="5271552" MonolithLength="81920"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="42" HiVel="84" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic2_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="592" SampleStart="592"
+          LoopEnd="74061" SampleEnd="74061" MonolithOffset="5353472" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="42" HiVel="84" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic2_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1761" SampleStart="1761"
+          LoopEnd="88827" SampleEnd="88827" MonolithOffset="5431296" MonolithLength="90112"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="85" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic3_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="644" SampleStart="644"
+          LoopEnd="70300" SampleEnd="70300" MonolithOffset="5521408" MonolithLength="73728"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="85" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic3_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="629" SampleStart="629"
+          LoopEnd="62124" SampleEnd="62124" MonolithOffset="5595136" MonolithLength="65536"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="85" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic3_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="630" SampleStart="630"
+          LoopEnd="43931" SampleEnd="43931" MonolithOffset="5660672" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="85" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type4/jingleBells_type4_65_dynamic3_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="642" SampleStart="642"
+          LoopEnd="72131" SampleEnd="72131" MonolithOffset="5709824" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic1_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="615" SampleStart="615"
+          LoopEnd="57793" SampleEnd="57793" MonolithOffset="5787648" MonolithLength="61440"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="31" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic1_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="4374" SampleStart="4374"
+          LoopEnd="53944" SampleEnd="53944" MonolithOffset="5849088" MonolithLength="57344"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="31" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic1_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1815" SampleStart="1815"
+          LoopEnd="50441" SampleEnd="50441" MonolithOffset="5906432" MonolithLength="53248"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="31" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic1_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2953" SampleStart="2953"
+          LoopEnd="48714" SampleEnd="48714" MonolithOffset="5959680" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="32" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic2_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1058" SampleStart="1058"
+          LoopEnd="48589" SampleEnd="48589" MonolithOffset="6008832" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="32" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic2_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1787" SampleStart="1787"
+          LoopEnd="54906" SampleEnd="54906" MonolithOffset="6057984" MonolithLength="57344"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="32" HiVel="63" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic2_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2051" SampleStart="2051"
+          LoopEnd="38770" SampleEnd="38770" MonolithOffset="6115328" MonolithLength="40960"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="32" HiVel="63" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic2_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1666" SampleStart="1666"
+          LoopEnd="51959" SampleEnd="51959" MonolithOffset="6156288" MonolithLength="53248"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="64" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic3_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2375" SampleStart="2375"
+          LoopEnd="73767" SampleEnd="73767" MonolithOffset="6209536" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="64" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic3_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1953" SampleStart="1953"
+          LoopEnd="57234" SampleEnd="57234" MonolithOffset="6287360" MonolithLength="57344"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="64" HiVel="95" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic3_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2866" SampleStart="2866"
+          LoopEnd="57773" SampleEnd="57773" MonolithOffset="6344704" MonolithLength="61440"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="64" HiVel="95" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic3_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="3112" SampleStart="3112"
+          LoopEnd="74831" SampleEnd="74831" MonolithOffset="6406144" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic4_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2747" SampleStart="2747"
+          LoopEnd="66229" SampleEnd="66229" MonolithOffset="6483968" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="96" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic4_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1518" SampleStart="1518"
+          LoopEnd="44321" SampleEnd="44321" MonolithOffset="6561792" MonolithLength="53248"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="96" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic4_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2488" SampleStart="2488"
+          LoopEnd="43516" SampleEnd="43516" MonolithOffset="6615040" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="96" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic4_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2003" SampleStart="2003"
+          LoopEnd="41641" SampleEnd="41641" MonolithOffset="6664192" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="31" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic1_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3741" SampleStart="3741"
+          LoopEnd="57793" SampleEnd="57793" MonolithOffset="6713344" MonolithLength="61440"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="31" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic1_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="4374" SampleStart="4374"
+          LoopEnd="53944" SampleEnd="53944" MonolithOffset="6774784" MonolithLength="57344"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="31" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic1_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1815" SampleStart="1815"
+          LoopEnd="50441" SampleEnd="50441" MonolithOffset="6832128" MonolithLength="53248"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="31" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic1_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3055" SampleStart="3055"
+          LoopEnd="48714" SampleEnd="48714" MonolithOffset="6885376" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="32" HiVel="63" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic2_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1058" SampleStart="1058"
+          LoopEnd="48589" SampleEnd="48589" MonolithOffset="6934528" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="32" HiVel="63" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic2_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1787" SampleStart="1787"
+          LoopEnd="54906" SampleEnd="54906" MonolithOffset="6983680" MonolithLength="57344"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="32" HiVel="63" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic2_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2051" SampleStart="2051"
+          LoopEnd="38770" SampleEnd="38770" MonolithOffset="7041024" MonolithLength="40960"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="32" HiVel="63" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic2_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1666" SampleStart="1666"
+          LoopEnd="51959" SampleEnd="51959" MonolithOffset="7081984" MonolithLength="53248"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="64" HiVel="95" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic3_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2375" SampleStart="2375"
+          LoopEnd="73767" SampleEnd="73767" MonolithOffset="7135232" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="64" HiVel="95" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic3_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1953" SampleStart="1953"
+          LoopEnd="57234" SampleEnd="57234" MonolithOffset="7213056" MonolithLength="57344"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="64" HiVel="95" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic3_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2866" SampleStart="2866"
+          LoopEnd="57773" SampleEnd="57773" MonolithOffset="7270400" MonolithLength="61440"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="64" HiVel="95" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic3_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3239" SampleStart="3239"
+          LoopEnd="74831" SampleEnd="74831" MonolithOffset="7331840" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="96" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic4_rr1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2747" SampleStart="2747"
+          LoopEnd="66229" SampleEnd="66229" MonolithOffset="7409664" MonolithLength="77824"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="96" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic4_rr2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1518" SampleStart="1518"
+          LoopEnd="44321" SampleEnd="44321" MonolithOffset="7487488" MonolithLength="53248"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="96" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic4_rr3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2488" SampleStart="2488"
+          LoopEnd="43516" SampleEnd="43516" MonolithOffset="7540736" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="96" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type5/jingleBells_type5_67_dynamic4_rr4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2003" SampleStart="2003"
+          LoopEnd="41641" SampleEnd="41641" MonolithOffset="7589888" MonolithLength="49152"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type6/jingleBells_type6_69_dynamic1_rr1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2678" SampleStart="2678"
+          LoopEnd="48997" SampleEnd="48997" MonolithOffset="7639040" MonolithLength="53248"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type6/jingleBells_type6_69_dynamic1_rr2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2464" SampleStart="2464"
+          LoopEnd="62608" SampleEnd="62608" MonolithOffset="7692288" MonolithLength="65536"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type6/jingleBells_type6_69_dynamic1_rr3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2572" SampleStart="2572"
+          LoopEnd="41425" SampleEnd="41425" MonolithOffset="7757824" MonolithLength="45056"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type6/jingleBells_type6_69_dynamic1_rr4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2660" SampleStart="2660"
+          LoopEnd="37420" SampleEnd="37420" MonolithOffset="7802880" MonolithLength="40960"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type6/jingleBells_type6_69_dynamic1_rr5.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2411" SampleStart="2411"
+          LoopEnd="38967" SampleEnd="38967" MonolithOffset="7843840" MonolithLength="45056"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type6/jingleBells_type6_69_dynamic1_rr6.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2464" SampleStart="2464"
+          LoopEnd="39615" SampleEnd="39615" MonolithOffset="7888896" MonolithLength="40960"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type6/jingleBells_type6_69_dynamic1_rr7.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="959" SampleStart="959"
+          LoopEnd="49438" SampleEnd="49438" MonolithOffset="7929856" MonolithLength="53248"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type6/jingleBells_type6_69_dynamic1_rr8.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2453" SampleStart="2453"
+          LoopEnd="34367" SampleEnd="34367" MonolithOffset="7983104" MonolithLength="36864"
+          SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1289" SampleStart="1289"
+          LoopEnd="312813" SampleEnd="312813" MonolithOffset="8019968"
+          MonolithLength="315392" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="32" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2751" SampleStart="2751"
+          LoopEnd="292093" SampleEnd="292093" MonolithOffset="8335360"
+          MonolithLength="294912" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="64" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="3186" SampleStart="3186"
+          LoopEnd="341759" SampleEnd="341759" MonolithOffset="8630272"
+          MonolithLength="344064" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic4.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="7339" SampleStart="7339"
+          LoopEnd="404718" SampleEnd="404718" MonolithOffset="8974336"
+          MonolithLength="409600" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="0" HiVel="31" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1289" SampleStart="1289"
+          LoopEnd="312813" SampleEnd="312813" MonolithOffset="9383936"
+          MonolithLength="315392" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="32" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2751" SampleStart="2751"
+          LoopEnd="292093" SampleEnd="292093" MonolithOffset="9699328"
+          MonolithLength="294912" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="64" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3186" SampleStart="3186"
+          LoopEnd="341759" SampleEnd="341759" MonolithOffset="9994240"
+          MonolithLength="344064" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="96" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="7339" SampleStart="7339"
+          LoopEnd="404718" SampleEnd="404718" MonolithOffset="10338304"
+          MonolithLength="409600" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="0" HiVel="31" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1289" SampleStart="1289"
+          LoopEnd="312813" SampleEnd="312813" MonolithOffset="10747904"
+          MonolithLength="315392" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="32" HiVel="63" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2751" SampleStart="2751"
+          LoopEnd="292093" SampleEnd="292093" MonolithOffset="11063296"
+          MonolithLength="294912" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="64" HiVel="95" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3186" SampleStart="3186"
+          LoopEnd="341759" SampleEnd="341759" MonolithOffset="11358208"
+          MonolithLength="344064" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="96" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="7339" SampleStart="7339"
+          LoopEnd="404718" SampleEnd="404718" MonolithOffset="11702272"
+          MonolithLength="409600" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="0" HiVel="31" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1289" SampleStart="1289"
+          LoopEnd="312813" SampleEnd="312813" MonolithOffset="12111872"
+          MonolithLength="315392" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="32" HiVel="63" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2751" SampleStart="2751"
+          LoopEnd="292093" SampleEnd="292093" MonolithOffset="12427264"
+          MonolithLength="294912" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="64" HiVel="95" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3186" SampleStart="3186"
+          LoopEnd="341759" SampleEnd="341759" MonolithOffset="12722176"
+          MonolithLength="344064" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="96" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="7339" SampleStart="7339"
+          LoopEnd="404718" SampleEnd="404718" MonolithOffset="13066240"
+          MonolithLength="409600" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="0" HiVel="31" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1289" SampleStart="1289"
+          LoopEnd="312813" SampleEnd="312813" MonolithOffset="13475840"
+          MonolithLength="315392" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="32" HiVel="63" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2751" SampleStart="2751"
+          LoopEnd="292093" SampleEnd="292093" MonolithOffset="13791232"
+          MonolithLength="294912" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="64" HiVel="95" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3186" SampleStart="3186"
+          LoopEnd="341759" SampleEnd="341759" MonolithOffset="14086144"
+          MonolithLength="344064" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="96" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="7339" SampleStart="7339"
+          LoopEnd="404718" SampleEnd="404718" MonolithOffset="14430208"
+          MonolithLength="409600" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="0" HiVel="31" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1289" SampleStart="1289"
+          LoopEnd="312813" SampleEnd="312813" MonolithOffset="14839808"
+          MonolithLength="315392" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="32" HiVel="63" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2751" SampleStart="2751"
+          LoopEnd="292093" SampleEnd="292093" MonolithOffset="15155200"
+          MonolithLength="294912" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="64" HiVel="95" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3186" SampleStart="3186"
+          LoopEnd="341759" SampleEnd="341759" MonolithOffset="15450112"
+          MonolithLength="344064" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="96" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="7339" SampleStart="7339"
+          LoopEnd="404718" SampleEnd="404718" MonolithOffset="15794176"
+          MonolithLength="409600" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="0" HiVel="31" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1289" SampleStart="1289"
+          LoopEnd="312813" SampleEnd="312813" MonolithOffset="16203776"
+          MonolithLength="315392" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="32" HiVel="63" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2751" SampleStart="2751"
+          LoopEnd="292093" SampleEnd="292093" MonolithOffset="16519168"
+          MonolithLength="294912" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="64" HiVel="95" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3186" SampleStart="3186"
+          LoopEnd="341759" SampleEnd="341759" MonolithOffset="16814080"
+          MonolithLength="344064" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="96" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="7339" SampleStart="7339"
+          LoopEnd="404718" SampleEnd="404718" MonolithOffset="17158144"
+          MonolithLength="409600" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="0" HiVel="31" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="1289" SampleStart="1289"
+          LoopEnd="312813" SampleEnd="312813" MonolithOffset="17567744"
+          MonolithLength="315392" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="32" HiVel="63" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="2751" SampleStart="2751"
+          LoopEnd="292093" SampleEnd="292093" MonolithOffset="17883136"
+          MonolithLength="294912" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="64" HiVel="95" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3186" SampleStart="3186"
+          LoopEnd="341759" SampleEnd="341759" MonolithOffset="18178048"
+          MonolithLength="344064" SampleRate="48000.0"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="96" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type7/jingleBells_type7_71_dynamic4.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="7339" SampleStart="7339"
+          LoopEnd="404718" SampleEnd="404718" MonolithOffset="18522112"
+          MonolithLength="409600" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic1.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="726" SampleStart="726"
+          LoopEnd="350807" SampleEnd="350807" MonolithOffset="18931712"
+          MonolithLength="352256" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic2.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="3460" SampleStart="3460"
+          LoopEnd="378935" SampleEnd="378935" MonolithOffset="19283968"
+          MonolithLength="380928" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic3.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="49094" SampleStart="3555"
+          LoopEnd="414172" SampleEnd="414172" MonolithOffset="19664896"
+          MonolithLength="417792" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="41" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="726" SampleStart="726"
+          LoopEnd="350807" SampleEnd="350807" MonolithOffset="20082688"
+          MonolithLength="352256" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="42" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3460" SampleStart="3460"
+          LoopEnd="378935" SampleEnd="378935" MonolithOffset="20434944"
+          MonolithLength="380928" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="85" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3555" SampleStart="3555"
+          LoopEnd="414172" SampleEnd="414172" MonolithOffset="20815872"
+          MonolithLength="417792" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="726" SampleStart="726"
+          LoopEnd="350807" SampleEnd="350807" MonolithOffset="21233664"
+          MonolithLength="352256" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3460" SampleStart="3460"
+          LoopEnd="378935" SampleEnd="378935" MonolithOffset="21585920"
+          MonolithLength="380928" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3555" SampleStart="3555"
+          LoopEnd="414172" SampleEnd="414172" MonolithOffset="21966848"
+          MonolithLength="417792" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="41" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="726" SampleStart="726"
+          LoopEnd="350807" SampleEnd="350807" MonolithOffset="22384640"
+          MonolithLength="352256" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="42" HiVel="84" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3460" SampleStart="3460"
+          LoopEnd="378935" SampleEnd="378935" MonolithOffset="22736896"
+          MonolithLength="380928" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="84" HiVel="126" RRGroup="4"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic3.wav"
+          Duplicate="1" LoopXFade="10000" LoopStart="52569" SampleStart="3555"
+          LoopEnd="295632" SampleEnd="414172" LoopEnabled="0" MonolithOffset="23117824"
+          MonolithLength="417792" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="41" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="726" SampleStart="726"
+          LoopEnd="350807" SampleEnd="350807" MonolithOffset="23535616"
+          MonolithLength="352256" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="42" HiVel="84" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3460" SampleStart="3460"
+          LoopEnd="378935" SampleEnd="378935" MonolithOffset="23887872"
+          MonolithLength="380928" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="85" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3555" SampleStart="3555"
+          LoopEnd="414172" SampleEnd="414172" MonolithOffset="24268800"
+          MonolithLength="417792" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="41" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="726" SampleStart="726"
+          LoopEnd="350807" SampleEnd="350807" MonolithOffset="24686592"
+          MonolithLength="352256" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="42" HiVel="84" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3460" SampleStart="3460"
+          LoopEnd="378935" SampleEnd="378935" MonolithOffset="25038848"
+          MonolithLength="380928" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="85" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3555" SampleStart="3555"
+          LoopEnd="414172" SampleEnd="414172" MonolithOffset="25419776"
+          MonolithLength="417792" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="41" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="726" SampleStart="726"
+          LoopEnd="350807" SampleEnd="350807" MonolithOffset="25837568"
+          MonolithLength="352256" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="42" HiVel="84" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3460" SampleStart="3460"
+          LoopEnd="378935" SampleEnd="378935" MonolithOffset="26189824"
+          MonolithLength="380928" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="85" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3555" SampleStart="3555"
+          LoopEnd="414172" SampleEnd="414172" MonolithOffset="26570752"
+          MonolithLength="417792" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="41" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic1.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="726" SampleStart="726"
+          LoopEnd="350807" SampleEnd="350807" MonolithOffset="26988544"
+          MonolithLength="352256" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="42" HiVel="84" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic2.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3460" SampleStart="3460"
+          LoopEnd="378935" SampleEnd="378935" MonolithOffset="27340800"
+          MonolithLength="380928" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="85" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}type8/jingleBells_type8_72_dynamic3.wav"
+          Duplicate="1" LoopXFade="0" LoopStart="3555" SampleStart="3555"
+          LoopEnd="414172" SampleEnd="414172" MonolithOffset="27721728"
+          MonolithLength="417792" SampleRate="48000.0"/>
+</samplemap>

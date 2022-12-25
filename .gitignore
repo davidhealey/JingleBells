@@ -1,0 +1,17 @@
+Binaries/
+Installer/
+AudioFiles/
+Documentation/
+Expansions/
+Presets/
+PooledResources/
+Packaging/
+Compiled/
+*build
+*dev
+*.hxi
+*.hxp
+*.hr*
+*.ch*
+.DS_Store
+user_info.xml
